@@ -17,7 +17,7 @@ WHMCS iPara Ödeme Modülünü ücretsiz olarak kullanabilir, ihtiyaçlarınız 
 
 WHMCS ödeme modülü üzerinde hata bildiriminde veya katkıda bulunmak ya da sorularınızı yöneltmek için gurkan@veridyen.com adresine bir email gönderebilirsiniz. Ancak, ücretli veya ücretsiz olarak modülün özelleştirilmesinde ve entegrasyonunda destek sağlamamaktayız. Herkesin kullanımına uygun bir şekilde Veridyen adına açık kaynak olarak modülü paylaşmak istedik.
 
-![Logo](https://www.veridyen.com/templates/veridyenv2/assets/images/veridyen-logo-alt.png)
+![Veridyen](https://github.com/gurkanbicer/ipara-whmcs/assets/5042349/a04bb7ab-c7c7-4b20-9ac3-3ff08fc3d21a)
 
 https://www.veridyen.com
 
